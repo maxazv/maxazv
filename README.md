@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxazv
 - 👀 I’m interested in science
-- 🌱 I’m currently learning machine learning/ deep learning
+- 🌱 I’m currently teaching myself machine learning/ deep learning
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 
