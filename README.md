@@ -1,6 +1,5 @@
 ### maxazv
 > learning
-- I’m interested in science
 - I’m currently teaching myself machine learning/ deep learning
 
 <!---
