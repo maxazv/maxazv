@@ -1,6 +1,6 @@
 ### maxazv
 > learning
-- I’m currently teaching myself machine learning/ deep learning
+- in uni
 
 <!---
 maxazv/maxazv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
