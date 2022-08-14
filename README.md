@@ -1,6 +1,5 @@
 ### maxazv
-> learning
-- in uni
+learning
 
 <!---
 maxazv/maxazv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
